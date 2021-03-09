@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding: 0;
+    bax-sizing: border-box;
+}
+
+body {
+    overflow : hidden;
+    background: black;
+    background-image: linear-gradient(to right,  rgb(215, 247, 244), white , rgb(215, 247, 244));
+    background:rgb(19, 3, 156);
+}
+
+canvas{
+
+    top: 0;
+    left: 0;
+    filter: url("#g");
+}
